@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=5500&color=D5E2F7&center=true&vCenter=true&width=1200&height=200&lines=Hi+there+!!+My+Name+is+wimpy+Katana)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+There%2C+I'm+Wimpy+Katana)](https://git.io/typing-svg)
 
 <!--
 **wimpykatana/wimpykatana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
